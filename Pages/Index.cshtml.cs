@@ -27,6 +27,7 @@ public class IndexModel : PageModel
                 else
                 {
                     _logger.LogInformation("Processing item {iVariable}", i);
+                    
                 }
             }
 
